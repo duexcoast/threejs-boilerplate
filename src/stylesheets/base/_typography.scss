@@ -1,0 +1,18 @@
+/**
+ * Basic typography style for copy text
+ */
+body {
+  color: $text-color;
+  font: normal 125% / 1.4 $text-font-stack;
+}
+
+h1 {
+  font-size: 8rem;
+  font-weight: 500;
+}
+h3 {
+  font-family: "Otterco";
+  font-size: 2.5rem;
+
+  font-weight: normal;
+}
